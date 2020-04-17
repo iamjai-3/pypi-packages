@@ -1,0 +1,9 @@
+setup.cfg
+setup.py
+stt_conversion/__init__.py
+stt_conversion/functions.py
+stt_conversion.egg-info/PKG-INFO
+stt_conversion.egg-info/SOURCES.txt
+stt_conversion.egg-info/dependency_links.txt
+stt_conversion.egg-info/requires.txt
+stt_conversion.egg-info/top_level.txt

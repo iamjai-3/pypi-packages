@@ -1,0 +1,21 @@
+Metadata-Version: 1.1
+Name: voice-timer
+Version: 2.1
+Summary: Speech recognition based Timer
+Home-page: https://github.com/iamjai-3/timer_package.git
+Author: JAI
+Author-email: mail2jai1123@gmail.com
+License: UNKNOWN
+Description: UNKNOWN
+Keywords: SOME,MEANINGFULL,KEYWORDS
+Platform: UNKNOWN
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Developers
+Classifier: Topic :: Software Development :: Build Tools
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.4
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8

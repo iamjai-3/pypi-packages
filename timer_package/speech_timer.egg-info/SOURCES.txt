@@ -1,0 +1,9 @@
+setup.cfg
+setup.py
+speech_timer/__init__.py
+speech_timer/functions.py
+speech_timer.egg-info/PKG-INFO
+speech_timer.egg-info/SOURCES.txt
+speech_timer.egg-info/dependency_links.txt
+speech_timer.egg-info/requires.txt
+speech_timer.egg-info/top_level.txt

@@ -1,0 +1,8 @@
+queries:
+
+  - seconds
+  - minutes
+  - hours
+  - hour
+  - minute
+  - second  

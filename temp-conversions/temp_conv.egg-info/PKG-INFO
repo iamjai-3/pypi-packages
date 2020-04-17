@@ -1,0 +1,21 @@
+Metadata-Version: 1.1
+Name: temp-conv
+Version: 1.1
+Summary: Convert celcius, fahrenheit, kelvin
+Home-page: UNKNOWN
+Author: JAI
+Author-email: mail2jai1123@gmail.com
+License: UNKNOWN
+Description: UNKNOWN
+Keywords: SOME,MEANINGFULL,KEYWORDS
+Platform: UNKNOWN
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Developers
+Classifier: Topic :: Software Development :: Build Tools
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.4
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
