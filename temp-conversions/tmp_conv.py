@@ -4,9 +4,10 @@ from temp_conv import kel_cel, cel_kel, cel_far, far_cel, kel_far, far_kel
 # pip install stt_conversion, temp_conv
 # Example say: "convert 50 degree celsius to fahrenheit"
 
-temps = ["Celsius", "Fahrenheit", "Kelvin"]
+temps = ["celsius", "fahrenheit", "kelvin"]
 v = voice()
-op = v.split()
+g = v.lower()
+op = g.split()
 print(op)
 value = int(op[1])
 
